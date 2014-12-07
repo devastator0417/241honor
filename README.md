@@ -1,4 +1,4 @@
-241honor
+CS 241-96 Honor Project
 ========
 <b>This is our CS 241 HONOR Project</b> 
 
